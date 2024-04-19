@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! 👋 I'm deeply into cybersecurity, currently learning reverse engineering and software protection. With a background in software engineering from "alxafrica.com", I'm all about crafting secure solutions. Whether I'm dissecting malware or fortifying software, I'm fueled by a passion for staying ahead in the cybersecurity game. Let's dive into the digital world together! 🛡️🔍🔒
+Hey! 👋 I'm deeply into cybersecurity, currently learning reverse engineering and software protection. With a background in software engineering from alxafrica.com, I'm all about crafting secure solutions. Whether I'm dissecting malware or fortifying software, I'm fueled by a passion for staying ahead in the cybersecurity game. Let's dive into the digital world together! 🛡️🔍🔒
 
 
 ## 🌐 Socials:
